@@ -29,4 +29,21 @@ h4 {
 	color: #009933 !important;
 }
 
+.forme {
+	width: 30rem;
+	height: 20rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.selecao {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.fundoLogin {
+	background: #252525 url("img/feira.jpg") no-repeat right top fixed;
+}
 
