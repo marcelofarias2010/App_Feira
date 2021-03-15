@@ -105,6 +105,36 @@ h4 {
 	}
 }
 
+.formec {
+	width: 40rem;
+	height: 45rem;
+	padding: 1rem 1.5rem 1rem 1rem;
+	
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	background-color: rgba(231, 231, 231, 0.2);
+
+	border-radius: 1rem;
+}
+
+@media only screen and (max-width: 770px) {
+	.formec {
+		width: 40rem;
+		height: 45rem;
+		padding: 1rem 1.5rem 1rem 1rem;
+		
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	
+		background-color: rgba(231, 231, 231, 0.2);
+	
+		border-radius: 1rem;
+	}
+}
+
 .selecao {
 	height: 100vh;
 
